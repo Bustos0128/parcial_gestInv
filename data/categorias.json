@@ -1,0 +1,61 @@
+[
+    {
+        "id": "C001",
+        "nombre": "Electrodomesticos",
+        "descripcion": "Productos electronicos para el hogar como neveras, lavadoras y microondas.",
+        "productos": [
+            "P001",
+            "P002",
+            "P003"
+        ]
+    },
+    {
+        "id": "C002",
+        "nombre": "Tecnologia",
+        "descripcion": "Dispositivos electronicos como laptops y tablets.",
+        "productos": [
+            "P004",
+            "P005"
+        ]
+    },
+    {
+        "id": "C003",
+        "nombre": "Muebles",
+        "descripcion": "Mobiliario para el hogar y oficina.",
+        "productos": [
+            "P006",
+            "P007"
+        ]
+    },
+    {
+        "id": "C004",
+        "nombre": "Ferreteria",
+        "descripcion": "Herramientas y materiales de construccion.",
+        "productos": [
+            "P008",
+            "P009",
+            "P010"
+        ]
+    },
+    {
+        "id": "C005",
+        "nombre": "Jugueteria",
+        "descripcion": "Juguetes para ni\u00f1os y coleccionables.",
+        "productos": [
+            "P011",
+            "P012"
+        ]
+    },
+    {
+        "id": "C006",
+        "nombre": "Prueba Cat",
+        "descripcion": "Desc cat",
+        "productos": []
+    },
+    {
+        "id": "C007",
+        "nombre": "wqw",
+        "descripcion": "asas",
+        "productos": []
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "id": "B001",
+        "nombre": "Bodega Central",
+        "ubicacion": "Zona Industrial Norte",
+        "capacidad_max": 5000,
+        "productos_almacenados": {
+            "P001": 200,
+            "P002": 150,
+            "P003": 300
+        }
+    },
+    {
+        "id": "B002",
+        "nombre": "Almac\u00e9n Sur",
+        "ubicacion": "Calle 45 Sur #30-15",
+        "capacidad_max": 3000,
+        "productos_almacenados": {
+            "P002": 100,
+            "P004": 500,
+            "P005": 700
+        }
+    },
+    {
+        "id": "B003",
+        "nombre": "Dep\u00f3sito Oriente",
+        "ubicacion": "Autopista al Llano km 10",
+        "capacidad_max": 2000,
+        "productos_almacenados": {
+            "P001": 400,
+            "P003": 150
+        }
+    },
+    {
+        "id": "B004",
+        "nombre": "Bodega Occidente",
+        "ubicacion": "Calle 8 Oeste #20-50",
+        "capacidad_max": 4000,
+        "productos_almacenados": {
+            "P004": 350,
+            "P006": 600,
+            "P007": 200
+        }
+    },
+    {
+        "id": "B005",
+        "nombre": "Centro de Distribuci\u00f3n Norte",
+        "ubicacion": "Km 5 V\u00eda al Mar",
+        "capacidad_max": 6000,
+        "productos_almacenados": {
+            "P003": 250,
+            "P005": 400,
+            "P008": 800
+        }
+    },
+    {
+        "id": "B006",
+        "nombre": "prue",
+        "ubicacion": "aqui",
+        "capacidad_max": 22,
+        "productos_almacenados": {}
+    },
+    {
+        "id": "B007",
+        "nombre": "a",
+        "ubicacion": "s",
+        "capacidad_max": 1,
+        "productos_almacenados": {}
+    },
+    {
+        "id": "B008",
+        "nombre": "a",
+        "ubicacion": "s",
+        "capacidad_max": 1,
+        "productos_almacenados": {}
+    },
+    {
+        "id": "B009",
+        "nombre": "12",
+        "ubicacion": "qww",
+        "capacidad_max": 2,
+        "productos_almacenados": {}
+    }
+]

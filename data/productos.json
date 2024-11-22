@@ -1,0 +1,83 @@
+[
+    {
+        "id": "P001",
+        "nombre": "Nevera LG",
+        "descripcion": "Nevera de 300 litros con tecnolog\u00eda Inverter",
+        "precio": 1500,
+        "stock_inicial": 10,
+        "categoria": "C001",
+        "proveedores": [
+            "PR001",
+            "PR002"
+        ],
+        "bodegas": [
+            "B001"
+        ]
+    },
+    {
+        "id": "P002",
+        "nombre": "Lavadora Samsung",
+        "descripcion": "Lavadora de 15 kg con sistema de carga frontal",
+        "precio": 1200,
+        "stock_inicial": 5,
+        "categoria": "C001",
+        "proveedores": [
+            "PR002"
+        ],
+        "bodegas": [
+            "B002"
+        ]
+    },
+    {
+        "id": "P003",
+        "nombre": "Microondas Whirlpool",
+        "descripcion": "Microondas de 25 litros con grill",
+        "precio": 300,
+        "stock_inicial": 15,
+        "categoria": "C001",
+        "proveedores": [
+            "PR001"
+        ],
+        "bodegas": [
+            "B001"
+        ]
+    },
+    {
+        "id": "P004",
+        "nombre": "Laptop Dell",
+        "descripcion": "Laptop con procesador Intel i7 y 16 GB de RAM",
+        "precio": 2500,
+        "stock_inicial": 8,
+        "categoria": "C002",
+        "proveedores": [
+            "PR003"
+        ],
+        "bodegas": [
+            "B003"
+        ]
+    },
+    {
+        "id": "P005",
+        "nombre": "Tablet Samsung",
+        "descripcion": "Tablet de 10 pulgadas con 128 GB de almacenamiento",
+        "precio": 600,
+        "stock_inicial": 20,
+        "categoria": "C002",
+        "proveedores": [
+            "PR004"
+        ],
+        "bodegas": [
+            "B004"
+        ]
+    },
+    {
+        "id": "P006",
+        "nombre": "prueba",
+        "descripcion": "desc",
+        "precio": 2121.0,
+        "stock_inicial": 1212,
+        "categoria": "C003",
+        "proveedores": [],
+        "bodegas": []
+    }
+]

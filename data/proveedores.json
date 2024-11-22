@@ -1,0 +1,80 @@
+[
+    {
+        "id": "PR001",
+        "nombre": "ElectroGlobal S.A.",
+        "direccion": "Carrera 15 #45-78, Bogot\u00e1",
+        "telefono": "3104567890",
+        "productos": [
+            "P001",
+            "P002"
+        ]
+    },
+    {
+        "id": "PR002",
+        "nombre": "TechStore Ltda.",
+        "direccion": "Calle 23 #10-45, Medell\u00edn",
+        "telefono": "3209876543",
+        "productos": [
+            "P004",
+            "P005"
+        ]
+    },
+    {
+        "id": "PR003",
+        "nombre": "Muebles del Valle",
+        "direccion": "Avenida Siempre Viva #100, Cali",
+        "telefono": "6023456789",
+        "productos": [
+            "P006",
+            "P007"
+        ]
+    },
+    {
+        "id": "PR004",
+        "nombre": "Construtools S.A.S.",
+        "direccion": "Km 2 v\u00eda al Aeropuerto, Barranquilla",
+        "telefono": "3051234567",
+        "productos": [
+            "P008",
+            "P009"
+        ]
+    },
+    {
+        "id": "PR005",
+        "nombre": "Juguetes Felices",
+        "direccion": "Calle 50 #10-15, Cartagena",
+        "telefono": "3117894561",
+        "productos": [
+            "P011",
+            "P012"
+        ]
+    },
+    {
+        "id": "PR006",
+        "nombre": "w",
+        "direccion": "a",
+        "telefono": "z",
+        "productos": []
+    },
+    {
+        "id": "PR007",
+        "nombre": "as",
+        "direccion": "qw",
+        "telefono": "azs",
+        "productos": []
+    },
+    {
+        "id": "PR008",
+        "nombre": "33w",
+        "direccion": "ww",
+        "telefono": "qq",
+        "productos": []
+    },
+    {
+        "id": "PR009",
+        "nombre": "111",
+        "direccion": "aaa",
+        "telefono": "zzz",
+        "productos": []
+    }
+]
