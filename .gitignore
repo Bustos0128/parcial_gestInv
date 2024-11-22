@@ -1,5 +1,40 @@
+# Ignorar archivos de compilación de Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de entorno virtual
+venv/
+env/
+
+# Ignorar archivos generados por IDEs o editores
 .vscode/
-.env/
+.idea/
+*.swp
+
+# Ignorar archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de Python
 *.log
+*.bak
+
+# Ignorar archivos específicos de Tkinter o relacionados con GUI
+*.db
+*.sqlite
+
+# Ignorar el archivo de configuración de dependencias si es específico de un entorno
+*.egg-info/
+dist/
+build/
+
+# Archivos relacionados con la configuración de PyInstaller (si fuera utilizado)
+*.spec
+
+# Ignorar archivos de datos de la aplicación
+data/
+
+# Si usas algún archivo temporal de respaldo de código
+*.bak
