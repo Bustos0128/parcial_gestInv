@@ -1,4 +1,4 @@
-#SEBASTIAN BUSTOS
+# SEBASTIAN BUSTOS
 # Sistema de Gestión de Inventario
 
 Este proyecto es un sistema para gestionar productos, categorías, proveedores y bodegas. Permite realizar diversas operaciones, como el registro de productos, la actualización de stock, la gestión de bodegas y la generación de reportes relacionados con el estado del inventario. Además, cuenta con una interfaz gráfica desarrollada con Tkinter para facilitar la interacción con el usuario.
